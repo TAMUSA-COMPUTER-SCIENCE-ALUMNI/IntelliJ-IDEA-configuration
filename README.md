@@ -1,0 +1,1 @@
+# intellij-integrated-development-environment-application-configuration
