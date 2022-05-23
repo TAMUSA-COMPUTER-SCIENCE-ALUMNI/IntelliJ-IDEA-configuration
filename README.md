@@ -11,4 +11,5 @@
         *   In terminal tool: `brew install git`
     *   Linux
         *   In terminal tool: `apt-get install git`
-3. Watch the [video]()
+3. Create a [GitHub](https://education.github.com/pack) account
+4. Watch the [video]()
