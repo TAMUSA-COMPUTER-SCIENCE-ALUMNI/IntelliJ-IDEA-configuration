@@ -12,4 +12,4 @@
     *   Linux
         *   In terminal tool: `apt-get install git`
 3. Create a [GitHub](https://education.github.com/pack) account
-4. Watch the [video]()
+4. Watch the [video](https://youtu.be/kyHL3RIc6b4 )
