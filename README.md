@@ -1,6 +1,6 @@
-# IntelliJ Integrated Development Environment Application (IDEA) Configuration
+# IntelliJ IDEA (Integrated Development Environment Application) Configuration
 
-## Instructions for Tutorial
+## Instructions for Tutorials
 1. Download and install [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
 2. [Set up IntelliJ modules for your Programming Fundamentals course](https://youtu.be/WDCA1kTpPr4)
 3. [Create your first Java application](https://youtu.be/PYs2S1GCOZE)
